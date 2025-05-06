@@ -5,7 +5,7 @@
 
 
 # Set the base image to Ubuntu
-FROM ubuntu
+FROM registry.access.redhat.com/ubi9/nginx-122
 
 # File Author / Maintainer
 MAINTAINER Karthik Gaekwad
